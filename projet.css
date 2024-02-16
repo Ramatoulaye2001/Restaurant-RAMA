@@ -190,7 +190,7 @@ footer{
 
 @media screen and (max-width:900px) {
     .titre{ justify-content: space-between;}     
-    .titre h3{font-size: 14px;}
+    .titre h3{font-size: 10px;}
     .titre img{width: 220px;}
     .card{grid-column: span 3;}
     
